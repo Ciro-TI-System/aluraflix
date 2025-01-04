@@ -1,0 +1,130 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Deploy a Full Stack App - React, Node.js, Express, Mongo",
+      "description": "Aprenda a implantar uma aplicação full stack utilizando React, Node.js, Express e MongoDB.",
+      "imageUrl": "https://img.youtube.com/vi/l134cBAJCuc/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=l134cBAJCuc",
+      "category": "Fullstack",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "MERN Stack Tutorial: Learn MongoDB, Express, React, Node.js",
+      "description": "Curso completo para iniciantes sobre o MERN Stack: MongoDB, Express, React e Node.js.",
+      "imageUrl": "https://img.youtube.com/vi/Jcs_2jNPgtE/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=Jcs_2jNPgtE",
+      "category": "Fullstack",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Realtime Chat App with React, Node.js, Socket.io and MongoDB",
+      "description": "Crie um aplicativo de chat em tempo real com React, Node.js, Socket.io e MongoDB.",
+      "imageUrl": "https://img.youtube.com/vi/otaQKODEUFs/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=otaQKODEUFs",
+      "category": "Backend",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "Build & Deploy Full Stack React App on AWS in Just 1 Hour!",
+      "description": "Aprenda a construir e implantar uma aplicação full stack React na AWS em apenas 1 hora.",
+      "imageUrl": "https://img.youtube.com/vi/CORUc9CcK5I/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=CORUc9CcK5I",
+      "category": "DevOps",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+      "description": "Guia completo para desenvolvimento full stack com React, NodeJS, Express e MongoDB.",
+      "imageUrl": "https://img.youtube.com/vi/ktjafK4SgWM/hqdefault.jpg",
+      "videoUrl": "https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/",
+      "category": "Fullstack",
+      "featured": true
+    },
+    {
+      "id": "6",
+      "title": "MERN STACK (MONGODB, EXPRESS, REACT, NODE.JS)",
+      "description": "Playlist completa sobre como construir uma aplicação full stack usando o MERN Stack.",
+      "imageUrl": "https://img.youtube.com/vi/0ohtVzCSHqs/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/playlist?list=PL9Cc6a85TQK0HfqW4Ayn_EC1BmMsAnGlm",
+      "category": "Fullstack",
+      "featured": true
+    },
+    {
+      "id": "7",
+      "title": "Introdução ao Node.js",
+      "description": "Neste vídeo, você aprenderá os conceitos básicos do Node.js, incluindo seu funcionamento, principais características e como começar a desenvolver aplicações utilizando esta poderosa plataforma de desenvolvimento backend.",
+      "imageUrl": "https://img.youtube.com/vi/TlB_eWDSMt4/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+      "category": "Backend",
+      "featured": true
+    },
+    {
+      "id": "8",
+      "title": "Como criar APIs com Express.js",
+      "description": "Tutorial prático sobre criação de APIs com Express.",
+      "imageUrl": "https://img.youtube.com/vi/pKd0Rpw7O48/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=pKd0Rpw7O48",
+      "category": "Backend",
+      "featured": false
+    },
+    {
+      "id": "9",
+      "title": "Guia Completo de CSS Grid e Flexbox",
+      "description": "Domine CSS Grid e Flexbox para layouts responsivos.",
+      "imageUrl": "https://img.youtube.com/vi/0ohtVzCSHqs/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=0ohtVzCSHqs",
+      "category": "Frontend",
+      "featured": true
+    },
+    {
+      "id": "10",
+      "title": "Criando um Chat em Tempo Real com Socket.io",
+      "description": "Aprenda a criar aplicações de chat com Socket.io.",
+      "imageUrl": "https://img.youtube.com/vi/FsCBw9X9U84/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=FsCBw9X9U84",
+      "category": "Backend",
+      "featured": true
+    },
+    {
+      "id": "11",
+      "title": "MongoDB para Iniciantes",
+      "description": "Como trabalhar com bancos de dados NoSQL usando MongoDB.",
+      "imageUrl": "https://img.youtube.com/vi/YnfwDQ5XYF4/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=YnfwDQ5XYF4",
+      "category": "Database",
+      "featured": true
+    },
+    {
+      "id": "12",
+      "title": "SQL para Desenvolvedores",
+      "description": "Aprenda os fundamentos do SQL e consultas avançadas.",
+      "imageUrl": "https://img.youtube.com/vi/5hzZtqCNQKk/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=5hzZtqCNQKk",
+      "category": "Database",
+      "featured": false
+    },
+    {
+      "id": "13",
+      "title": "Desenvolvimento Fullstack com MERN",
+      "description": "Curso prático de desenvolvimento Fullstack com MongoDB, Express, React e Node.",
+      "imageUrl": "https://img.youtube.com/vi/ktjafK4SgWM/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ktjafK4SgWM",
+      "category": "Fullstack",
+      "featured": true
+    },
+    {
+      "id": "14",
+      "title": "Testes Automatizados com Jest",
+      "description": "Como escrever testes para aplicações JavaScript usando Jest.",
+      "imageUrl": "https://img.youtube.com/vi/R9FOchgTtLM/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=R9FOchgTtLM",
+      "category": "Testing",
+      "featured": false
+    }
+  ]
+}

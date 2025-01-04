@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center"> 
+Alura Flix (React-Next)
+</h1>
 
-## Getting Started
+<p align="center">
+⚙️ Desenvolvimento de uma plataforma de vídeos educacionais da Alura, onde você pode encontrar os melhores vídeos para sua jornada de aprendizado. ⚙️
+</p>
 
-First, run the development server:
+<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <img src=".github/" width="100%">
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Funcionalidades
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Exibição de vídeos categorizados
+- Adição de novos vídeos
+- Edição de vídeos existentes
+- Exclusão de vídeos
+- Comentários sobre os vídeos
 
-## Learn More
+<br>
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠 Tecnologias Utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Axios](https://axios-http.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-## Deploy on Vercel
+<br>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Instalação
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/aluraflix.git
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd aluraflix
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+4. Inicie o servidor de desenvolvimento:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Abra o navegador e acesse `http://localhost:3000`.
+
+<br>
+
+## Estrutura do Projeto
+
+- `src/components`: Componentes reutilizáveis da aplicação.
+- `src/pages`: Páginas da aplicação.
+- `src/app`: Configurações globais e layout da aplicação.
+- `public`: Arquivos estáticos, como imagens e ícones.
+
+<br>
+
+## 📝 License
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+<p align="center">Esse projeto está sob a licença MIT.</p>
+
+<br>
+
+### 👨‍💻 Autor
+
+ <img style="border-radius: 50%;" src="./assets/TI-System.png" width="100px;" alt=""/>
+ <em>Ciro Batista da Silva<em>
+ 
+ <br/>
+
+ <p>👋🏽 Entre em contato!</p>
+
+[![Twitter Badge](https://img.shields.io/badge/-@CiroSilva2020-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CiroSilva2020)](https://twitter.com/CiroSilva2020) [![Linkedin Badge](https://img.shields.io/badge/-Ciro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/)](https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/)
+[![Gmail Badge](https://img.shields.io/badge/-cirofight@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cirofight@gmail.com)](mailto:cirofight@gmail.com)
