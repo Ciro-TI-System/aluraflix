@@ -4,7 +4,6 @@ import Image from "next/image";
 
 // Interface para as propriedades do componente Banner
 interface BannerProps {
-  ImageUrl: string;
   title: string;
   description: string;
   buttonLabel: string;
@@ -12,23 +11,21 @@ interface BannerProps {
 }
 
 const Banner: React.FC<BannerProps> = ({
-  ImageUrl,
   title,
   description,
   buttonLabel,
   onButtonClick,
 }) => {
   return (
-    <div className="relative h-80 bg-cover bg-center">
+    <div className="relative h-96 bg-cover bg-center">
       <Image
-        src={ImageUrl}
+        src="/banner.png"
         alt={title}
-        fill
-        quality={100}
-        //loading="lazy"
-        priority
-        className="w-full h-full object-cover"
+        layout="fill"
         objectFit="cover"
+        quality={100}
+        priority
+        className="w-full h-full"
       />
 
       <div className="absolute inset-0 bg-black opacity-50"></div>

@@ -63,7 +63,6 @@ const HomePage: React.FC = () => {
 
       {/* Banner */}
       <Banner
-        ImageUrl="https://img.youtube.com/vi/CORUc9CcK5I/hqdefault.jpg"
         title="Bem-vindo ao Aluraflix!"
         description="Aqui você encontra os melhores vídeos para sua jornada."
         buttonLabel="Explore agora"
