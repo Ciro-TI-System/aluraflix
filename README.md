@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Alura Flix (React-Next)
+Aluraflix (React-Next)
 </h1>
 
 <p align="center">
