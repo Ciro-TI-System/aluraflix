@@ -9,7 +9,7 @@ Alura Flix (React-Next)
 <br>
 
 <p align="center">
-  <img src=".github/" width="100%">
+  <img src=".github/aluraflix-home.jpeg" width="100%">
 </p>
 
 <br>
